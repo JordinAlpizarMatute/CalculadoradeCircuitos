@@ -48,16 +48,6 @@ Una calculadora web completa y moderna para circuitos eléctricos con visualizac
 - ⚡ Cálculos en tiempo real
 - 💾 Sin necesidad de backend
 
-## 🚀 Demo en Vivo
-
-👉 [Ver Demo](https://tu-usuario.github.io/circuit-calculator/)
-
-## 📸 Capturas de Pantalla
-
-| Ley de Ohm | Resistencias | Capacitores |
-|------------|--------------|-------------|
-| ![](https://via.placeholder.com/250x150/6366f1/ffffff?text=Ley+de+Ohm) | ![](https://via.placeholder.com/250x150/ec4899/ffffff?text=Resistencias) | ![](https://via.placeholder.com/250x150/10b981/ffffff?text=Capacitores) |
-
 ## 🛠️ Tecnologías Utilizadas
 
 - **React 18** - Biblioteca de UI
@@ -65,99 +55,6 @@ Una calculadora web completa y moderna para circuitos eléctricos con visualizac
 - **Lucide React** - Iconos modernos
 - **CSS3** - Estilos personalizados con variables CSS
 - **GitHub Pages** - Hosting gratuito
-
-## 📦 Instalación y Uso
-
-### Prerequisitos
-
-- Node.js 16+ instalado
-- npm o yarn
-
-### Clonar el repositorio
-
-```bash
-git clone https://github.com/tu-usuario/circuit-calculator.git
-cd circuit-calculator
-```
-
-### Instalar dependencias
-
-```bash
-npm install
-# o
-yarn install
-```
-
-### Ejecutar en desarrollo
-
-```bash
-npm run dev
-# o
-yarn dev
-```
-
-La aplicación estará disponible en `http://localhost:5173`
-
-### Compilar para producción
-
-```bash
-npm run build
-# o
-yarn build
-```
-
-Los archivos compilados estarán en la carpeta `dist/`
-
-### Vista previa de producción
-
-```bash
-npm run preview
-# o
-yarn preview
-```
-
-## 🌐 Despliegue en GitHub Pages
-
-1. **Actualizar la configuración:**
-   
-   Edita `vite.config.js` y cambia el `base`:
-   ```javascript
-   base: '/circuit-calculator/', // Nombre de tu repositorio
-   ```
-
-2. **Instalar gh-pages:**
-   ```bash
-   npm install --save-dev gh-pages
-   ```
-
-3. **Desplegar:**
-   ```bash
-   npm run deploy
-   ```
-
-4. **Configurar GitHub Pages:**
-   - Ve a Settings → Pages en tu repositorio
-   - Selecciona la rama `gh-pages`
-   - Guarda
-
-¡Tu calculadora estará en vivo en minutos! 🎉
-
-## 📚 Cómo Usar
-
-### 1. Selecciona una Categoría
-Elige entre Ley de Ohm, Resistencias, Capacitores, Inductores o Circuitos AC.
-
-### 2. Ingresa los Valores
-Completa los campos con tus valores conocidos.
-
-### 3. Calcula
-Presiona el botón "Calcular" para obtener el resultado.
-
-### 4. Visualiza
-Observa el diagrama del circuito correspondiente en la parte inferior.
-
-### 5. Historial
-Todos tus cálculos se guardan en el historial para referencia rápida.
 
 ## 🎨 Personalización
 
@@ -256,22 +153,6 @@ Si encuentras algún bug o tienes sugerencias:
 ## 📝 Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
-
-## 👨‍💻 Autor
-
-**Tu Nombre**
-
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
-- Email: tu@email.com
-
-## 🌟 Agradecimientos
-
-- A todos los estudiantes de ingeniería eléctrica que luchan con cálculos
-- A la comunidad de React por las increíbles herramientas
-- A ti por usar esta calculadora 💙
-
----
 
 ⭐ Si este proyecto te fue útil, dale una estrella en GitHub!
 
