@@ -34,10 +34,10 @@
     "capacitor",
     "inductor"
   ],
-  "author": "Tu Nombre",
+  "author": "Jordin",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tu-usuario/circuit-calculator"
+    "url": "https://github.com/JordinAlpizarMatute/circuit-calculator"
   }
 }
