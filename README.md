@@ -150,10 +150,5 @@ Si encuentras algún bug o tienes sugerencias:
 3. Incluye pasos para reproducirlo
 4. Agrega capturas de pantalla si es posible
 
-## 📝 Licencia
 
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
-
-⭐ Si este proyecto te fue útil, dale una estrella en GitHub!
-
-Made with ⚡ and ❤️ for electrical engineering students
+Hecho con ⚡ y ❤️ 
